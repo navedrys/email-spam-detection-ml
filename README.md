@@ -3,7 +3,7 @@
 A machine learning project that detects spam messages using TF-IDF and SVM.
 
 ## Live Demo
-https://spam-detection-app.streamlit.app
+https://email-spam-detection-ml-naved.streamlit.app/
 
 ## Technologies Used
 - Python
